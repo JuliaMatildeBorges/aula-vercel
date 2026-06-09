@@ -334,12 +334,6 @@ function Projects() {
                 <span className="pthumb-ic">{p.icon}</span>
                 <span className="pstatus">em andamento</span>
               </div>
-              <div className="pbody">
-                <h3 className="ptitle">{p.title}</h3>
-                <p className="pdesc">{p.desc}</p>
-                <div className="ptags">{p.tags.map(t => <span className="ptag" key={t}>{t}</span>)}</div>
-                <a href="#" className="plink">↗ GitHub</a>
-              </div>
             </div>
           ))}
         </div>
