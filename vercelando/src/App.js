@@ -202,9 +202,9 @@ const projects = [
 ];
 
 const contactLinks = [
-  {icon:'💼',bg:'rgba(10,102,194,0.15)',title:'LinkedIn',value:'linkedin.com/in/juliamatilde',href:'https://linkedin.com'},
-  {icon:'🐙',bg:'rgba(255,255,255,0.05)',title:'GitHub',value:'github.com/juliamatilde',href:'https://github.com'},
-  {icon:'✉️',bg:'rgba(255,60,172,0.1)',title:'E-mail',value:'julia@email.com',href:'mailto:julia@email.com'},
+  {icon:'💼',bg:'rgba(10,102,194,0.15)',title:'LinkedIn',value:'linkedin.com/in/juliamatilde',href:'https://www.linkedin.com/in/j%C3%BAlia-borges-67b36830b/'},
+  {icon:'🐙',bg:'rgba(255,255,255,0.05)',title:'GitHub',value:'github.com/JuliaMatildeBorges',href:'https://github.com/JuliaMatildeBorges'},
+  {icon:'✉️',bg:'rgba(255,60,172,0.1)',title:'E-mail',value:'juliaborgesmatilde@gmail.com',href:'mailto:juliaborgesmatilde@gmail.com'},
 ];
 
 function Hero() {
